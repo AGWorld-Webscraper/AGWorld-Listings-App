@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jake5\\source\\repos\\AGWorld-Listings-App\\AGWorld-Listings-App\\AGWorld-Listings-App.csproj",
+      "projectUniqueName": "C:\\Users\\Jake5\\Desktop\\GitHub\\RNR\\AGWorld-Listings-App\\AGWorld-Listings-App\\AGWorld-Listings-App\\AGWorld-Listings-App.csproj",
       "projectName": "AGWorld-Listings-App",
-      "projectPath": "C:\\Users\\Jake5\\source\\repos\\AGWorld-Listings-App\\AGWorld-Listings-App\\AGWorld-Listings-App.csproj",
+      "projectPath": "C:\\Users\\Jake5\\Desktop\\GitHub\\RNR\\AGWorld-Listings-App\\AGWorld-Listings-App\\AGWorld-Listings-App\\AGWorld-Listings-App.csproj",
       "packagesPath": "C:\\Users\\Jake5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jake5\\source\\repos\\AGWorld-Listings-App\\AGWorld-Listings-App\\obj\\",
+      "outputPath": "C:\\Users\\Jake5\\Desktop\\GitHub\\RNR\\AGWorld-Listings-App\\AGWorld-Listings-App\\AGWorld-Listings-App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jake5\\AppData\\Roaming\\NuGet\\NuGet.Config",
