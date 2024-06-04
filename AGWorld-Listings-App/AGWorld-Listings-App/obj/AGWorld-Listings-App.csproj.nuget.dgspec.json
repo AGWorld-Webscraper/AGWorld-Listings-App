@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "C:\\Users\\Jake5\\source\\repos\\AGWorld-Listings-App\\AGWorld-Listings-App\\AGWorld-Listings-App.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Jake5\\source\\repos\\AGWorld-Listings-App\\AGWorld-Listings-App\\AGWorld-Listings-App.csproj",
         "packagesPath": "C:\\Users\\Jake5\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Jake5\\source\\repos\\AGWorld-Listings-App\\AGWorld-Listings-App\\obj\\",
+=======
+    "C:\\Users\\Jake5\\Desktop\\AgWorld-Listing-App Final\\AGWorld-Listings-App\\AGWorld-Listings-App\\AGWorld-Listings-App.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jake5\\Desktop\\AgWorld-Listing-App Final\\AGWorld-Listings-App\\AGWorld-Listings-App\\AGWorld-Listings-App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jake5\\Desktop\\AgWorld-Listing-App Final\\AGWorld-Listings-App\\AGWorld-Listings-App\\AGWorld-Listings-App.csproj",
+        "projectName": "AGWorld-Listings-App",
+        "projectPath": "C:\\Users\\Jake5\\Desktop\\AgWorld-Listing-App Final\\AGWorld-Listings-App\\AGWorld-Listings-App\\AGWorld-Listings-App.csproj",
+        "packagesPath": "C:\\Users\\Jake5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jake5\\Desktop\\AgWorld-Listing-App Final\\AGWorld-Listings-App\\AGWorld-Listings-App\\obj\\",
+>>>>>>> Stashed changes
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jake5\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +53,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.60, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

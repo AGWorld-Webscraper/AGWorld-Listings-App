@@ -1,8 +1,17 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "63JkMkU+0n9qQdu2xQGHfvmcSHMpV/6XdWZkaxVNuZQ+XwVCNVkeDGbZOlsgm9ThToPqPVwpF4BQiv81Tbi3ng==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jake5\\source\\repos\\AGWorld-Listings-App\\AGWorld-Listings-App\\AGWorld-Listings-App.csproj",
   "expectedPackageFiles": [],
+=======
+  "dgSpecHash": "l86xSMqKaCRaFmMaPJJLYj3dDXe3TMdDuu2vdYjakp2VUW30oIzUFcAOPfWcih8L1sCKmvjGxQ9KtoUVdWg7KA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jake5\\Desktop\\AgWorld-Listing-App Final\\AGWorld-Listings-App\\AGWorld-Listings-App\\AGWorld-Listings-App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jake5\\.nuget\\packages\\htmlagilitypack\\1.11.60\\htmlagilitypack.1.11.60.nupkg.sha512"
+  ],
+>>>>>>> Stashed changes
   "logs": []
 }
